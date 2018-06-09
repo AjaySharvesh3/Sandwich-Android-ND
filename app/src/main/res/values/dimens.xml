@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    //Dimen for Detail Activity
+    <dimen name="dimen_detail_activity">8dp</dimen>
+
+    //CardView Dimension
+    <dimen name="margin_cardview">10dp</dimen>
+</resources>
